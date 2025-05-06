@@ -6,7 +6,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prabhatprajapati988@gmail.com) 
 
 ## 📈 LeetCode Stats  
-![](https://leetcard.jacoblin.cool/jacoblincool?theme=light,unicorn)
+![](https://leetcard.jacoblin.cool/prabhatprajapati1?theme=light,unicorn)
 
 
 # 💻 Tech Stack:
