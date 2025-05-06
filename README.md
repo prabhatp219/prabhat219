@@ -4,8 +4,7 @@
 
 ## 🌐 Connect with me on :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prabhat-prajapati-6502382a8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prabhatprajapati988@gmail.com) 
-#📘 LeetCode Stats
-![](https://leetcard.jacoblin.cool/prabhatprajapati1?theme=unicorn)
+##📘 LeetCode Stats
 ![](https://leetcard.jacoblin.cool/prabhatprajapati1?theme=light,unicorn)
 
 # 💻 Tech Stack:
