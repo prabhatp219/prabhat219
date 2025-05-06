@@ -2,7 +2,7 @@
 🛠️ I’m currently working on:<br>I'm currently working on Learning the concepts of MERN stack and building various new Projects.<br><br>🤝 I’m looking to collaborate on:<br>Major Projects that can solve real life problems and join me in Hackathons.<br><br>🙋‍♂️ I’m looking for help with:<br>Advanced backend and databases.<br><br>🌱 I’m currently learning:<br>MySQL, Express, MongoDB, Node.js, React.<br><br>💬 Ask me about:<br>You can ask me about the responsive front-end pages and Databases.<br><br>⚡ Fun fact:<br>Wanna make some big real-world problem project — not just to code, but to create real impact.
 
 
-## 🌐 Socials:
+## 🌐 Connect with me on :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prabhat-prajapati-6502382a8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prabhatprajapati988@gmail.com) 
 
 # 💻 Tech Stack:
